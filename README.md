@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Deyvid</h1>
-<h3 align="center">A Fullstack/Backend developer trying to move to Switzerland 🇨🇭</h3>
+<h3 align="center">A Backend (Go/Python) Developer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=deyvidm&label=Profile%20views&color=0e75b6&style=flat" alt="deyvidm" /> </p> -->
 
